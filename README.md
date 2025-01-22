@@ -57,7 +57,7 @@ This app demonstrates modern Android development practices, including clean arch
 
 1. Open the app to see a list of movies fetched from TMDb.
 2. Scroll through the list to explore movie titles and posters.
-3. (Optional) Tap on a movie item to view more details (e.g., description, release date, or ratings) if implemented.
+3. (Optional) Tap on a movie item to view more details (e.g., description, release date, or ratings) if implemented. Not currently implemented
 
 ---
 
